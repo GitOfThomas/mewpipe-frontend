@@ -1,7 +1,7 @@
 # MewPipe (frontend)
 
 MewPipe est une application Web d'hébergement de vidéos. 
-Cela vous permettra d'ajouter des vidéos, des les éditer, les visionner et les partager à l'ensemble de la communauté.
+Cela vous permettra d'ajouter des vidéos, de les éditer, les visionner et les partager à l'ensemble de la communauté.
 
 Une authentification via OpenID a été implémentée afin de permettre aux utilisateurs de se connecter sans créer un nouveau compte. Ils pourront ainsi s'authentifier grâce à leur compte Facebook, Twitter, Google ou encore GitHub.
 
